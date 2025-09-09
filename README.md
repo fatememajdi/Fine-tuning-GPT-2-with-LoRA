@@ -94,8 +94,6 @@ cd Fine-tuning-GPT-2-with-LoRA
 # Install dependencies
 pip install -r requirements.txt
 
-# Run training
-python train.py
 ```
 
 ---
