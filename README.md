@@ -88,8 +88,8 @@ See [`requirements.txt`](./requirements.txt) for all dependencies.
 ## 🚀 How to Run
 ```bash
 # Clone repo
-git clone https://github.com/your-username/gpt2-lora-squad.git
-cd gpt2-lora-squad
+git clone https://github.com/fatememajdi/Fine-tuning-GPT-2-with-LoRA.git
+cd Fine-tuning-GPT-2-with-LoRA
 
 # Install dependencies
 pip install -r requirements.txt
